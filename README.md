@@ -1,2 +1,3 @@
 # Inventory-Management-System
-A backend project, built using JAX-RS and Jersey Framework, provides web services according to requirement.
+This project is built using JAX-RS. It is implemented Jersey framework.
+It's a backend project which provides web services for inventory management and front-end integration.
